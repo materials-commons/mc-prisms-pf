@@ -75,11 +75,6 @@ class ParameterFileParser:
             "c:Calculation": calculation,
 
         }
-        #     calculation=calculation,
-        #     description=description,
-        #     observations=observations,
-        #     **self.parameters
-        # )
 
 
 def add_to_excel(params, calculation, excel_file_path):
